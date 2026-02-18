@@ -1,0 +1,11 @@
+{
+  "name": "com.valvesoftware.steamaudio",
+  "version": "4.8.1",
+  "displayName": "Steam Audio",
+  "description": "Steam Audio Unity Integration by Valve Corporation.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Valve Corporation",
+    "url": "https://valvesoftware.github.io/steam-audio"
+  }
+}
